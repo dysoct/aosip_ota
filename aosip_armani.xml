@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSiP</RomName>
-  <VersionName>6.0</VersionName>
-  <VersionNumber type="integer">20170607</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/armani/AOSiP-6.0-Official-armani-20170607.zip</DirectUrl>
+  <VersionName>6.1</VersionName>
+  <VersionNumber type="integer">20170702</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/armani/AOSiP-6.1-Official-armani-20170702.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>6d1cd725e7cd396ac308742456fb20c6</CheckMD5>
-  <FileSize type="integer">314591206</FileSize>
+  <CheckMD5>b066736a0a62c4cb138a9762470b6833</CheckMD5>
+  <FileSize type="integer">314611785</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
- <Changelog>Rebased to JDC</Changelog>
+ <Changelog>June Patch.</Changelog>
 </ROM>
