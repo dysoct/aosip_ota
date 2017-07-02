@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>AOSiP</RomName>
+  <VersionName>6.1</VersionName>
+  <VersionNumber type="integer">20170702</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/kiwi/AOSiP-6.1-Official-kiwi-20170702.zip</DirectUrl>
+  <HttpUrl nil=true/>
+  <Android>7.1.2</Android>
+  <CheckMD5>4a42f415eab5d74474c05e5be56da55e</CheckMD5>
+  <FileSize type="integer">449287714</FileSize>
+  <Developer>Team Illusion</Developer>
+  <WebsiteURL>http://aosiprom.com</WebsiteURL>
+  <DonateURL>http://paypal.me/aosip</DonateURL>
+ <Changelog>June Patch.</Changelog>
+</ROM>
