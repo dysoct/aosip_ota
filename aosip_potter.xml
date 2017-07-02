@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSiP</RomName>
-  <VersionName>6.0</VersionName>
-  <VersionNumber type="integer">20170607</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/potter/AOSiP-6.0-Official-potter-20170607.zip</DirectUrl>
+  <VersionName>6.1</VersionName>
+  <VersionNumber type="integer">20170702</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/potter/AOSiP-6.1-Official-potter-20170702.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>f58c59cbffecf5c06002e14998a6e771</CheckMD5>
-  <FileSize type="integer">366320730</FileSize>
+  <CheckMD5>9a95a92320ddebb1453ca10d1b9ce69a</CheckMD5>
+  <FileSize type="integer">367917288</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
- <Changelog>Rebased to JDC</Changelog>
+ <Changelog>June Patch.</Changelog>
 </ROM>
