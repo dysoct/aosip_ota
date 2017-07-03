@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSiP</RomName>
-  <VersionName>6.0</VersionName>
-  <VersionNumber type="integer">20170607</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/mido/AOSiP-6.0-Official-mido-20170607.zip</DirectUrl>
+  <VersionName>6.1</VersionName>
+  <VersionNumber type="integer">20170703</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/mido/AOSiP-6.1-Official-mido-20170702.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>dbaf9e4c07f419ba0648ee0c95ec9e5b</CheckMD5>
-  <FileSize type="integer">539817769</FileSize>
+  <CheckMD5>e46efd5d3311b0b2fe067b951b838d94</CheckMD5>
+  <FileSize type="integer">539783140</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
- <Changelog>Rebased to JDC</Changelog>
+ <Changelog>June Patch.</Changelog>
 </ROM>
