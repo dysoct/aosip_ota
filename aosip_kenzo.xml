@@ -6,8 +6,8 @@
   <DirectUrl>http://get.aosiprom.com/kenzo/AOSiP-6.1-Official-kenzo-20170704.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5></CheckMD5>
-  <FileSize type="integer"></FileSize>
+  <CheckMD5>9cae6e8514272bcaf29da3995fad74ce</CheckMD5>
+  <FileSize type="integer">500978318</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
