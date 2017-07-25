@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSiP</RomName>
-  <VersionName>6.1</VersionName>
-  <VersionNumber type="integer">20170702</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/oneplus3/AOSiP-6.1-Official-oneplus3-20170702.zip</DirectUrl>
+  <VersionName>6.2</VersionName>
+  <VersionNumber type="integer">20170725</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/oneplus3/AOSiP-6.2-Official-oneplus3-20170725.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>89fc4a07919248a4367fd8cfd6fd60bf</CheckMD5>
-  <FileSize type="integer">483776522</FileSize>
+  <CheckMD5>5f50622a94d55825fa355514e489acb3</CheckMD5>
+  <FileSize type="integer">545859775</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
- <Changelog>June Patch.</Changelog>
+ <Changelog>July Patch.</Changelog>
 </ROM>
