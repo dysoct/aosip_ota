@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSiP</RomName>
-  <VersionName>6.1</VersionName>
-  <VersionNumber type="integer">20170704</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/kenzo/AOSiP-6.1-Official-kenzo-20170704.zip</DirectUrl>
+  <VersionName>6.2</VersionName>
+  <VersionNumber type="integer">20170725</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/kenzo/AOSiP-6.2-Official-kenzo-20170725.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>9cae6e8514272bcaf29da3995fad74ce</CheckMD5>
-  <FileSize type="integer">500978318</FileSize>
+  <CheckMD5>a7606e21be2450c0eff49e8498e09148</CheckMD5>
+  <FileSize type="integer">505793392</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
- <Changelog>June Patch.</Changelog>
+ <Changelog>July Patch.</Changelog>
 </ROM>
