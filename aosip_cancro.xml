@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSiP</RomName>
-  <VersionName>6.1</VersionName>
-  <VersionNumber type="integer">20170702</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/cancro/AOSiP-6.1-Official-cancro-20170702.zip</DirectUrl>
+  <VersionName>6.2</VersionName>
+  <VersionNumber type="integer">20170725</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/cancro/AOSiP-6.2-Official-cancro-20170725.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>3ea39bf5fc390895660fbcc32e8fb879</CheckMD5>
-  <FileSize type="integer">339746907</FileSize>
+  <CheckMD5>4e1fea308e8db0aab95b28a34a79fbcf</CheckMD5>
+  <FileSize type="integer">370396517</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
- <Changelog>June Patch.</Changelog>
+ <Changelog>July Patch.</Changelog>
 </ROM>
