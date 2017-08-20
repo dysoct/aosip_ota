@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSiP</RomName>
-  <VersionName>6.2</VersionName>
-  <VersionNumber type="integer">20170725</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/lux/AOSiP-6.2-Official-lux-20170725.zip</DirectUrl>
+  <VersionName>6.3</VersionName>
+  <VersionNumber type="integer">20170820</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/lux/AOSiP-6.3-Official-lux-20170820.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>ebfb57a65d7455fc28b2387f02477fc5</CheckMD5>
-  <FileSize type="integer">330742392</FileSize>
+  <CheckMD5>2f69e7966679087eff18fc7b795fef20</CheckMD5>
+  <FileSize type="integer">332405011</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
- <Changelog>July Patch.</Changelog>
+ <Changelog>August Patch.</Changelog>
 </ROM>
