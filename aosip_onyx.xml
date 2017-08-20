@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSiP</RomName>
-  <VersionName>6.2</VersionName>
-  <VersionNumber type="integer">20170725</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/onyx/AOSiP-6.2-Official-onyx-20170725.zip</DirectUrl>
+  <VersionName>6.3</VersionName>
+  <VersionNumber type="integer">20170820</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/onyx/AOSiP-6.3-Official-onyx-20170820.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>a62e41f675643d3eed9d24fa78b9bf03</CheckMD5>
-  <FileSize type="integer">383849108</FileSize>
+  <CheckMD5>6c8272847081c295ac5934b54dc56cd2</CheckMD5>
+  <FileSize type="integer">385701756</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
- <Changelog>July Patch.</Changelog>
+ <Changelog>August Patch.</Changelog>
 </ROM>
