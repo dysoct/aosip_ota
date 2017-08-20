@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>AOSiP</RomName>
-  <VersionName>6.2</VersionName>
-  <VersionNumber type="integer">20170725</VersionNumber>
-  <DirectUrl>http://get.aosiprom.com/angler/AOSiP-6.2-Official-angler-20170725.zip</DirectUrl>
+  <VersionName>6.3</VersionName>
+  <VersionNumber type="integer">20170820</VersionNumber>
+  <DirectUrl>http://get.aosiprom.com/angler/AOSiP-6.3-Official-angler-20170820.zip</DirectUrl>
   <HttpUrl nil=true/>
   <Android>7.1.2</Android>
-  <CheckMD5>0a683b7bd2217138ce8da82ddd2425bb</CheckMD5>
-  <FileSize type="integer">436185786</FileSize>
+  <CheckMD5>6f5f8e8a498adfa28a288e0f18feeeb6</CheckMD5>
+  <FileSize type="integer">437635160</FileSize>
   <Developer>Team Illusion</Developer>
   <WebsiteURL>http://aosiprom.com</WebsiteURL>
   <DonateURL>http://paypal.me/aosip</DonateURL>
- <Changelog>July Patch.</Changelog>
+ <Changelog>August Patch.</Changelog>
 </ROM>
