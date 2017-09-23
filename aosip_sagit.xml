@@ -34,5 +34,5 @@
   <DonateURL>http://www.paypal.me/aosip</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>Hey! OTA Works!</Changelog>
+  <Changelog>OTA Works</Changelog>
 </ROM>
